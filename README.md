@@ -4,7 +4,7 @@ Hi 👋 My name is Peter Muyomba
 Full Stack Developer
 --------------------
 
-I am currently enrolled in general assembly coding bootcamp doing an immersive software engineering course with the MERN STACK.
+I am builder 👷‍♂️ and code is my toolbox 🧰.
 
 * 🌍  I'm based in haverhill ma
 * ✉️  You can contact me at [pmuyomba11@gmail.com](mailto:pmuyomba11@gmail.com)
